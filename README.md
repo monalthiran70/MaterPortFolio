@@ -129,7 +129,7 @@ Whenever you want to update the github related information on the website you ne
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](https://ashutosh1919.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
+Note here that if you click [my portfolio](https://monalthiran70.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
 Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
 
 - If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo
@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/ashutosh1919/masterPortfolio/pulls) or [issue](https://github.com/ashutosh1919/masterPortfolio/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/monalthiran70/masterPortfolio/pulls) or [issue](https://github.com/monalthiran70/masterPortfolio/issues).
 
 - Move to Gatsby
 - Add Podcast Section and Video Section
@@ -218,5 +218,5 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 
 # References 👏🏻
 
-- Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
+- Some Design and Implementation Ideas are taken from [Ashutosh's Portfolio Project](https://github.com/ashutosh1919/developerFolio).
 - The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.
